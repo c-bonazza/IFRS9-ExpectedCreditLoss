@@ -1,0 +1,17 @@
+# IFRS 9 ECL Engine - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Interactive visualizations
+plotly>=5.18.0
+
+# Standard library (included in Python 3.x):
+# - argparse
+# - csv
+# - math
+# - random
+# - time
+# - typing
